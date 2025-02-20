@@ -31,3 +31,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Panda theme](./themes/Panda.json) from [@WTFive](https://github.com/wtfive) based on [VSCode Panda theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
 ![Panda theme](screenshots/Panda.png)
+
+[Geocities theme](./themes/geocities.json) from [@michaelachrisco](https://github.com/michaelachrisco) based on old Geocities websites.
+
+![Geocities theme](screenshots/geocities.png)
